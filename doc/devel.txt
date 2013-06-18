@@ -1,0 +1,5 @@
+1. Get it working for shopify shop
+
+1. Create basic models
+2. Create config
+3. Create download some shopify data 
