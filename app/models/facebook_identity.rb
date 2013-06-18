@@ -1,0 +1,4 @@
+class FacebookIdentity < Identity
+  
+
+end

@@ -1,0 +1,7 @@
+development:
+  #not needed in test mode
+test:
+  url: https://some-test-shop-url
+production:
+  #not needed in test mode
+
